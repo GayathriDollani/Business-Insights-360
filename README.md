@@ -86,7 +86,7 @@ After opening a new store in America, AtliQ Hardware encountered unforeseen loss
 
 The Power BI dashboard consists of six pages, each targeting a specific business domain:
 
-- **Home Page**: Navigation hub with bookmarks.  
+- **Home Page**: Navigation hub with bookmarks.[Dashboard Overview].(/search-ms:displayname=Search%20Results%20in%20Pictures&crumb=System.Generic.String%3Ahom&crumb=location:C%3A%5CUsers%5Cgayat%5COneDrive%5CDocuments%5CPictures)
 - **Finance View**: Profitability metrics, top-performing products, and customers.  
 - **Sales View**: Customer contributions, gross margin, and sales trends.  
 - **Marketing View**: Segment-wise performance and profitability.  
