@@ -4,6 +4,8 @@
 **Author:** Gayathri Dollani  
 
 
+---
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -19,15 +21,20 @@
 - [Tools Used](#tools-used)
 
 
+---
+
+
 ## Project Overview
 
 AtliQ Hardware, a global leader in computer and accessories sales, faced financial challenges despite rapid growth and expansion. To address these issues, the company decided to transition to data-driven decision-making using Power BI to identify actionable insights across finance, sales, marketing, and supply chain operations.
 
+---
 
 ## Problem Statement
 
 After opening a new store in America, AtliQ Hardware encountered unforeseen losses due to ineffective decision-making based on intuition and limited data analysis. Competitors with advanced analytics teams posed a significant threat, urging AtliQ Hardware to enhance its analytics capabilities.
 
+---
 
 ## Objectives
 
@@ -39,6 +46,8 @@ After opening a new store in America, AtliQ Hardware encountered unforeseen loss
   - **Marketing**: Segment-wise profitability.
   - **Supply Chain**: Forecast accuracy and operational efficiency.
   - **Executive Summary**: High-level metrics for leadership.
+
+---
 
 
 ## Datasets Used
